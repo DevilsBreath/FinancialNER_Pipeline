@@ -1,4 +1,4 @@
-```markdown
+
 # Financial NER Extraction Pipeline
 
 Extract structured financial insights from 10-K/10-Q reports using custom-trained FinBERT NER model.
@@ -283,5 +283,3 @@ python cli.py --pdf <path> --no-context          # Hide context
 
 For questions or issues, open an issue on [GitHub](https://github.com/DevilsBreath/-FinanceInsight-NER/issues).
 ```
-
-This is the complete, production-ready README.md file based on your project structure. It includes comprehensive usage examples, command references, troubleshooting guides, and clear documentation for all three interfaces (training, production pipeline, and interactive CLI). [ppl-ai-file-upload.s3.amazonaws](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/64793863/b6823f90-cf9c-4724-9f5d-1b310df49245/pipeline.py)
