@@ -282,4 +282,3 @@ python cli.py --pdf <path> --no-context          # Hide context
 ## 📧 Contact
 
 For questions or issues, open an issue on [GitHub](https://github.com/DevilsBreath/-FinanceInsight-NER/issues).
-```
